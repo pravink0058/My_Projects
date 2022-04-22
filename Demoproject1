@@ -1,0 +1,20 @@
+<!DOCTYPE html>  
+<html>  
+  <head>  
+    <title>The basic demo code of HTML</title>
+ </head>  
+ <body style="text-align: center; background-color:palegreen ;">  
+  <marquee><h2>Welcome to DevOps</h2>  </marquee>
+       <p style="color: blue">GIT is a version Tool</p>  
+       <p style="color: red">Jenkins is Integration Tool</p>  
+       <p style="color: lightcoral">Docker has Cotainers</p>  <br><br><br><br>
+
+
+       <button name="button" value="OK" type="button" onclick="hello()">Click Here</button>  
+<script>  
+function hello(){  
+alert("Hello User Welcome");  
+}  
+</script>
+  </body>  
+</html>
