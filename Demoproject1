@@ -7,7 +7,8 @@
   <marquee><h2>Welcome to DevOps</h2>  </marquee>
        <p style="color: blue">GIT is a version Tool</p>  
        <p style="color: red">Jenkins is Integration Tool</p>  
-       <p style="color: lightcoral">Docker has Cotainers</p>  <br><br><br><br>
+       <p style="color: lightcoral">Docker has Cotainers</p> 
+       <p style="color: lightcoral">Kubernetes maintians Docker CONTAINERS</p> <br><br><br><br>
 
 
        <button name="button" value="OK" type="button" onclick="hello()">Click Here</button>  
